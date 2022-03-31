@@ -36,11 +36,13 @@ The following **additional** features are implemented:
 
 - [x] Buttons are broken up into rows of three
 
-## Video Walkthrough (GIF)
+## Video Walkthrough (GIF/MOV)
 
 [Testing Losing & Winning, no audio](https://github.com/Cruedy/codepath-prework/blob/main/Loss_-win_-no-audio.gif)
 <br>
-[Testing audio](https://github.com/Cruedy/codepath-prework/blob/main/audio.gif)
+[Testing audio(no sound)](https://github.com/Cruedy/codepath-prework/blob/main/audio.gif)
+### I added an .MOV file to show how the audio works
+[Testing audio(sound)](https://github.com/Cruedy/codepath-prework/blob/main/audio.mov)
 
 ## Reflection Questions
 
