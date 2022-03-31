@@ -51,8 +51,8 @@ The following **additional** features are implemented:
 2. What was a challenge you encountered in creating this submission (be specific)? How did you overcome it? (recommended 200 - 400 words)
    I wanted to do the prework by just reading the instructions and not looking at the code that was provided, so I ended up
    having a lot of smaller errors that took me a while to find. I also had trouble testing the javascript in the project. I
-   ended up having to use window alerts to print things out from the functions. I ended up using a large portion of my time,
-   writing code on my own, then checking it side-by-side with the provided code. I also needed to add a lot of extra comments
+   ended up having to use window alerts to print things out from the functions. This used a large portion of my time because I
+   wrote the code on my own, then had to check it side-by-side with the provided code. I also needed to add a lot of extra comments
    to help keep track of what certain variables or blocks of code were doing. When I started adding my additional features, I
    struggled to figure out what I wanted the interface to look like. I would add new features, but then the site would end up
    looking too messy, so I had to keep making adjustments. I wanted the game to be a 3x3 square, so I had to add breaks to create
@@ -66,7 +66,7 @@ The following **additional** features are implemented:
    In high school, web development was actually a part of computer science that I enjoyed doing in my free time. I created a portfolio site
    for videos that I made. I really enjoyed making the site, but now when I go check on the site, I realize that the website was very poorly
    designed. I want to figure out how to actually make a site look well designed. I also want to be able to make the website function more
-   smoothly. I also feel like I know a lot about the frontend of sites, but I want to learn more about how the backend/javascript part of
+   smoothly. I also feel like I know a lot about the frontend of sites, but I want to learn more about how the backend/javascript part of how
    websites work.
 
 4. If you had a few more hours to work on this project, what would you spend them doing (for example: refactoring certain functions, adding additional features, etc). Be specific. (recommended 100 - 300 words)
